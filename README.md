@@ -70,7 +70,7 @@ python3 -m Sriasih
 
 <h1>
     <p align="center">
-        <a href="https://heroku.com/deploy?template=https://github.com/hitokizzy/Sri-Asih">
+        <a href="https://heroku.com/deploy?template=https://github.com/tegaroulaw/manage">
             <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
         </a>
     </p>
