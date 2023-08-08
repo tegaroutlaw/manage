@@ -119,7 +119,7 @@ async def alive_function(answers):
     )
 
     msg = f"""
-**[{BOT_NAME}](https://github.com/rozari0/NezukoBot):**
+**[{BOT_NAME}](https://github.com/hitokizzy/sri-asih):**
 **MainBot:** `{bot_state}`
 **Python:** `{pyver.split()[0]}`
 **Pyrogram:** `{pyrover}`

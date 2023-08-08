@@ -37,7 +37,7 @@ UPSTREAM_REPO = environ.get(
 )
 
 
-ALIVE_LOGO = "https://telegra.ph/file/5d71546548f5a2e3a896e.png"
+ALIVE_LOGO = "https://telegra.ph/file/4963603cee6713c168613.jpg"
 GBAN_LOG_GROUP_ID = GBAN_LOG_GROUP_ID
 SUDOERS = DEVS
 WELCOME_DELAY_KICK_SEC = WELCOME_DELAY_KICK_SEC
